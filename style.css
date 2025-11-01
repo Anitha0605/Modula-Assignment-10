@@ -1,0 +1,14 @@
+body {
+  background: #c5d4e3;
+  background-image: url(https://i1.wp.com/azmind.com/demo/bootstrap-registration-forms/form-2/assets/img/backgrounds/2.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.container {
+  max-width: 500px;
+  border: 2px solid #ccc;
+  background: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
